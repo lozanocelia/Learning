@@ -1,5 +1,8 @@
 # TO LEARN
 
+## ML COURSE 
+https://developers.google.com/machine-learning/crash-course
+
 ## Text 
 ### Bert
 http://jalammar.github.io/illustrated-transformer/
